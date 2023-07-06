@@ -5,8 +5,9 @@ description:
   <p style="font-size:14px">I am an IBM-certified data scientist working on economic research and policymaking in the central bank of Pakistan.
   I have a wide-ranging experience of building and using machine learning models along with data wrangling and data visualization in various tools such as 
   R, Python, Stata, SQL and Tableau. I designed this website to showcase some of my work that I have done over the last few years.</p>
-  <p style="font-size:14px"><a href="https://www.linkedin.com/in/ijhaqqani/">View my LinkedIn Profile</a><br><br>
-  <a href="https://github.com/ijhaqqani/">View my Github</a></p>
+  <p style="font-size:14px"><a href="https://www.linkedin.com/in/ijhaqqani/">My LinkedIn Profile</a><br>
+  <a href="/docs/resume.pdf">My Resume</a><br>
+  <a href="https://github.com/ijhaqqani/">My Github</a></p>
 
 
 show_downloads: true
