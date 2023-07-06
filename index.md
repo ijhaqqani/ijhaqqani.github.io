@@ -22,14 +22,11 @@ layout: default
 ### [Economic Analysis Dashboard in Tableau](https://public.tableau.com/views/EconomicAnalysisDashboard2/Real?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 <img src="images/tableau_dashboard.png?raw=true"/>
 
-### Category Name 2
+### Other work
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-- [Project 6 Title](http://example.com/)
+- [Patterns in the trade data of PBS and SBP](http://example.com/)
+- [Historical BOP of Pakistan](http://example.com/)
+- [Exchange Rate: A story of Pakistan economy](http://example.com/)
 
 ---
 
