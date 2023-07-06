@@ -1,12 +1,12 @@
 title: 
   Ijlal Ahmad Haqqani
-logo: "/images/portfolio_pic6_edited.jpg?raw=true"
+logo: "/images/portfolio_pic9_edited.jpg?raw=true"
 description: 
-  <p style="font-size:13px">I am an IBM-certified data scientist working on economic research and policymaking in the central bank of Pakistan.
+  <p style="font-size:14px">I am an IBM-certified data scientist working on economic research and policymaking in the central bank of Pakistan.
   I have a wide-ranging experience of building and using machine learning models along with data wrangling and data visualization in various tools such as 
   R, Python, Stata, SQL and Tableau. I designed this website to showcase some of my work that I have done over the last few years.</p>
-  <p style="font-size:13px"><a href="https://www.linkedin.com/in/ijhaqqani/">LinkedIn</a></p>
-  <p style="font-size:13px"><a href="https://github.com/ijhaqqani/">Github</a></p>
+  <p style="font-size:14px"><a href="https://www.linkedin.com/in/ijhaqqani/">View my LinkedIn Profile</a><br><br>
+  <a href="https://github.com/ijhaqqani/">View my Github</a></p>
 
 
 show_downloads: true
