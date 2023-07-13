@@ -29,7 +29,7 @@ layout: default
 ### Other work
 
 - [Topic modelling of online grocery store data](http://example.com/)
-- [Patterns in the trade data of PBS and SBP](http://example.com/)
+- [Patterns in the trade data of PBS and SBP](https://medium.com/@iah91012112/a-comparison-of-trade-data-of-pbs-and-sbp-132ca2ff9e02)
 - [Historical BOP of Pakistan](http://example.com/)
 
 ---
