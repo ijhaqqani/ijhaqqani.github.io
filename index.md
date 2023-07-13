@@ -22,11 +22,15 @@ layout: default
 ### [Economic Analysis Dashboard in Tableau](https://public.tableau.com/views/EconomicAnalysisDashboard2/Real?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 <img src="images/tableau_dashboard.png?raw=true"/>
 
+---
+### [Forecasting Inflation using Machine Learning](https://github.com/ijhaqqani/inflation-ml)
+<img src="images/inflation_plot.png?raw=true"/>
+
 ### Other work
 
+- [Topic modelling of online grocery store data](http://example.com/)
 - [Patterns in the trade data of PBS and SBP](http://example.com/)
 - [Historical BOP of Pakistan](http://example.com/)
-- [Exchange Rate: A story of Pakistan economy](http://example.com/)
 
 ---
 
