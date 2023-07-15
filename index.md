@@ -30,7 +30,7 @@ layout: default
 
 - [Topic modelling of online grocery store data](http://example.com/)
 - [Patterns in the trade data of PBS and SBP](https://medium.com/@iah91012112/a-comparison-of-trade-data-of-pbs-and-sbp-132ca2ff9e02)
-- [Historical BOP of Pakistan](http://example.com/)
+- [Pakistan's Balance of Payments](https://medium.com/@iah91012112/the-story-of-the-balance-of-payments-of-pakistan-6b6873730fb0)
 
 ---
 
