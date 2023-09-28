@@ -11,6 +11,10 @@ layout: default
 <img src="images/project1.png?raw=true"/>
 
 ---
+### [Human and Economic Development in South Asia](https://github.com/ijhaqqani/misc-projects/tree/main/wdi)
+<img src="images/wdi.png?raw=true"/>
+
+---
 ### [The crisis in Pakistan economy: an analysis using Tableau and R (Part 1)](https://medium.com/@iah91012112/the-story-of-the-economic-collapse-in-pakistan-an-analysis-using-tableau-and-r-part-1-1da56fb4e176)
 <img src="images/Real Sector Indicators.png?raw=true"/>
 
